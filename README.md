@@ -15,7 +15,7 @@ ___
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=F7F7F7&width=435&lines=My+Fun+Projects)](https://git.io/typing-svg)
 
-* Benchmarking a [RAG system - From Scratch vs LlamaIndex](https://github.com/ljo3/RAG-based-documentation-bot)
+* Benchmarking a [RAG system - From Scratch vs Using LlamaIndex](https://github.com/ljo3/RAG-based-documentation-bot)
 * Multi Modal System - [Converting Text to Video](https://github.com/ljo3/Text2Video/)
 
 ---
